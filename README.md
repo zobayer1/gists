@@ -20,3 +20,7 @@ Aggregation repository for all my github gists.
 1. Clone all submoduels using: `git clone --recurse-submodules [Repo URL]`
 
 2. Note: If you have a lot of gists, there will be a lot of cloning.
+
+## Credits
+
+1. [Yumalnaura](https://gist.github.com/YumaInaura)
