@@ -1,0 +1,3 @@
+[submodule "elastic_scroll"]
+	path = elastic_scroll
+	url = git@gist.github.com:98eb3e0caf7304e15ac9c6d65c1e9f4c.git
