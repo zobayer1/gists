@@ -1,1 +1,6 @@
 # global gitignore file
+
+# Editor files
+.editorconfig
+.vscode/
+.idea/
