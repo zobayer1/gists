@@ -23,4 +23,4 @@ Aggregation repository for all my github gists.
 
 ## Credits
 
-1. [Yumalnaura](https://gist.github.com/YumaInaura)
+1. An idea from [Yumalnaura](https://gist.github.com/YumaInaura)

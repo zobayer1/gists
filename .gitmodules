@@ -1,3 +1,6 @@
 [submodule "elastic_scroll"]
 	path = elastic_scroll
 	url = git@gist.github.com:98eb3e0caf7304e15ac9c6d65c1e9f4c.git
+[submodule "fedora_post_install"]
+	path = fedora_post_install
+	url = git@gist.github.com:c60c0c6ab28d4b258818c3a4a2b65e65.git
