@@ -1,25 +1,30 @@
 # GISTS
 
-Aggregation repository for all my github gists.
+Master repository for all my github gists.
 
-## Adding New Gist
+## Add A New Gist
 
-1. Create gist in [gist.github.com](https://gist.github.com/)
+1. Create or find a gist in [gist.github.com](https://gist.github.com/)
 
-2. Find gist URL. Example: `git@gist.github.com:98eb3e0caf7304e15ac9c6d65c1e9f4c.git`
+2. Find Gist URL (can be either of `ssh` or `https` url)
 
-3. Add as submodule to this repo:
-    ```sh
-    git submodule add [Gist URL] [Some directory name easy to remember]
-    ```
+3. Add as submodule to this repo: `git submodule add [Gist URL] [A meaningful directory name]`
 
-4. Commit and push to aggregation repository. 
+4. Commit in master repository and push to origin.
 
 ## Clone All Gists
 
-1. Clone all submoduels using: `git clone --recurse-submodules [Repo URL]`
+1. Clone all submoduels using: `git clone --recurse-submodules [Master URL]`
 
 2. Note: If you have a lot of gists, there will be a lot of cloning.
+
+## Pull All Changes
+
+1. Pull changes from all submodules: `git pull --recurse-submodules`
+
+## Run for All Submodules
+
+1. To see logs from all submodules: `git submodule foreach --recursive 'git log'`
 
 ## Credits
 
