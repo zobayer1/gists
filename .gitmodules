@@ -4,3 +4,6 @@
 [submodule "fedora_post_install"]
 	path = fedora_post_install
 	url = git@gist.github.com:c60c0c6ab28d4b258818c3a4a2b65e65.git
+[submodule "fedora32_install_python3"]
+	path = fedora32_install_python3
+	url = git@gist.github.com:8f1477af1d6152671824ca737143ea75.git
