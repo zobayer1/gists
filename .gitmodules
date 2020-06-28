@@ -7,3 +7,6 @@
 [submodule "fedora32_install_python3"]
 	path = fedora32_install_python3
 	url = git@gist.github.com:8f1477af1d6152671824ca737143ea75.git
+[submodule "pytest_parametrize"]
+	path = pytest_parametrize
+	url = git@gist.github.com:31f07011f1eaca7e0e5714bf647c2886.git
