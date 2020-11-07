@@ -13,3 +13,6 @@
 [submodule "cppmakefile"]
 	path = cppmakefile
 	url = git@gist.github.com:7265c698d1b024bb7723bc624aeedeb3.git
+[submodule "elastic_bulk"]
+	path = elastic_bulk
+	url = git@gist.github.com:4fbc400acc6f66ede846c933de1eeb80.git
