@@ -16,3 +16,6 @@
 [submodule "elastic_bulk"]
 	path = elastic_bulk
 	url = git@gist.github.com:4fbc400acc6f66ede846c933de1eeb80.git
+[submodule "cron_checkist"]
+	path = cron_checkist
+	url = git@gist.github.com:5a413e7fcf30bced7a4c8bdf3a8296f7.git
