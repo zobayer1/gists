@@ -22,3 +22,6 @@
 [submodule "paho_mqtt"]
 	path = paho_mqtt
 	url = git@gist.github.com:4ddba85a59b3c802da91193a81cf23f7.git
+[submodule "htpassw"]
+	path = htpassw
+	url = git@gist.github.com:d86a59e45ae86198a9efc6f3d8682b49.git
