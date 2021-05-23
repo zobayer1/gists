@@ -25,3 +25,6 @@
 [submodule "htpassw"]
 	path = htpassw
 	url = git@gist.github.com:d86a59e45ae86198a9efc6f3d8682b49.git
+[submodule "pyyaml_envvar"]
+	path = pyyaml_envvar
+	url = git@gist.github.com:26e25bf98c8e647e095b48283309fe72.git
