@@ -31,3 +31,6 @@
 [submodule "gist_blur"]
 	path = gist_blur
 	url = git@gist.github.com:7ed91ab9986fd83817bea868fa4a012f.git
+[submodule "send_mail"]
+	path = send_mail
+	url = git@gist.github.com:3c69cc2f3342f25339a82ec7b1369129.git
