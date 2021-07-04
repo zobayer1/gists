@@ -34,3 +34,6 @@
 [submodule "send_mail"]
 	path = send_mail
 	url = git@gist.github.com:3c69cc2f3342f25339a82ec7b1369129.git
+[submodule "fedora_install_python"]
+	path = fedora_install_python
+	url = git@gist.github.com:8f1477af1d6152671824ca737143ea75.git
