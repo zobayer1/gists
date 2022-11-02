@@ -37,3 +37,6 @@
 [submodule "fedora_install_python"]
 	path = fedora_install_python
 	url = git@gist.github.com:8f1477af1d6152671824ca737143ea75.git
+[submodule "psycopg_connect"]
+	path = psycopg_connect
+	url = git@gist.github.com:8f74abdf19d4dc3c1d5a56dd582650cf.git
