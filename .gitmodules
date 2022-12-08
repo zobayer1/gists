@@ -40,3 +40,6 @@
 [submodule "psycopg_connect"]
 	path = psycopg_connect
 	url = git@gist.github.com:8f74abdf19d4dc3c1d5a56dd582650cf.git
+[submodule "kernel_cleanup"]
+	path = kernel_cleanup
+	url = git@gist.github.com:23b6290ce68544cfc89da2b3ea283b60.git
