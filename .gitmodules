@@ -4,9 +4,6 @@
 [submodule "fedora_post_install"]
 	path = fedora_post_install
 	url = git@gist.github.com:c60c0c6ab28d4b258818c3a4a2b65e65.git
-[submodule "fedora32_install_python3"]
-	path = fedora32_install_python3
-	url = git@gist.github.com:8f1477af1d6152671824ca737143ea75.git
 [submodule "pytest_parametrize"]
 	path = pytest_parametrize
 	url = git@gist.github.com:31f07011f1eaca7e0e5714bf647c2886.git
@@ -43,3 +40,18 @@
 [submodule "kernel_cleanup"]
 	path = kernel_cleanup
 	url = git@gist.github.com:23b6290ce68544cfc89da2b3ea283b60.git
+[submodule "bangla_fonts"]
+	path = bangla_fonts
+	url = git@gist.github.com:80d6653200f12bef340d560589bfca45.git
+[submodule "postgres_pgadmin"]
+	path = postgres_pgadmin
+	url = git@gist.github.com:2870ee8786512d350d26801b2b90d1bf.git
+[submodule "compile_openssl"]
+	path = compile_openssl
+	url = git@gist.github.com:165da3145033830ec8ef9fdc80b98295.git
+[submodule "docker_cheat"]
+	path = docker_cheat
+	url = git@gist.github.com:4b1f63dc5b854b22f1143e70427a1d2d.git
+[submodule "generator_send"]
+	path = generator_send
+	url = git@gist.github.com:71746ca94614c96a44f495cfb94bd15c.git
